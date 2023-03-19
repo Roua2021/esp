@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/roua/eclipse-workspace/essaie1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

@@ -1,0 +1,25 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/roua/esp/esp-idf-v5.0.1/components/bootloader/subproject",
+    "build_dir":          "/home/roua/eclipse-workspace/essaie1/build/bootloader",
+    "config_file":        "/home/roua/eclipse-workspace/essaie1/sdkconfig",
+    "config_defaults":    "",
+    "bootloader_elf":     "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v5.0.1",
+    "target":             "esp32",
+    "rev":                "0",
+    "min_rev":            "0",
+    "max_rev":            "399",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/roua/esp/esp-idf-v5.0.1/components/efuse/Kconfig;/home/roua/esp/esp-idf-v5.0.1/components/esp_common/Kconfig;/home/roua/esp/esp-idf-v5.0.1/components/esp_hw_support/Kconfig;/home/roua/esp/esp-idf-v5.0.1/components/esp_system/Kconfig;/home/roua/esp/esp-idf-v5.0.1/components/freertos/Kconfig;/home/roua/esp/esp-idf-v5.0.1/components/hal/Kconfig;/home/roua/esp/esp-idf-v5.0.1/components/log/Kconfig;/home/roua/esp/esp-idf-v5.0.1/components/newlib/Kconfig;/home/roua/esp/esp-idf-v5.0.1/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/roua/esp/esp-idf-v5.0.1/components/bootloader/Kconfig.projbuild;/home/roua/esp/esp-idf-v5.0.1/components/esp_app_format/Kconfig.projbuild;/home/roua/esp/esp-idf-v5.0.1/components/esp_rom/Kconfig.projbuild;/home/roua/esp/esp-idf-v5.0.1/components/esptool_py/Kconfig.projbuild;/home/roua/esp/esp-idf-v5.0.1/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp_app_format", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/roua/esp/esp-idf-v5.0.1/components/bootloader", "/home/roua/esp/esp-idf-v5.0.1/components/bootloader_support", "/home/roua/esp/esp-idf-v5.0.1/components/efuse", "/home/roua/esp/esp-idf-v5.0.1/components/esp_app_format", "/home/roua/esp/esp-idf-v5.0.1/components/esp_common", "/home/roua/esp/esp-idf-v5.0.1/components/esp_hw_support", "/home/roua/esp/esp-idf-v5.0.1/components/esp_rom", "/home/roua/esp/esp-idf-v5.0.1/components/esp_system", "/home/roua/esp/esp-idf-v5.0.1/components/esptool_py", "/home/roua/esp/esp-idf-v5.0.1/components/freertos", "/home/roua/esp/esp-idf-v5.0.1/components/hal", "/home/roua/esp/esp-idf-v5.0.1/components/log", "/home/roua/esp/esp-idf-v5.0.1/components/bootloader/subproject/main", "/home/roua/esp/esp-idf-v5.0.1/components/bootloader/subproject/components/micro-ecc", "/home/roua/esp/esp-idf-v5.0.1/components/newlib", "/home/roua/esp/esp-idf-v5.0.1/components/partition_table", "/home/roua/esp/esp-idf-v5.0.1/components/soc", "/home/roua/esp/esp-idf-v5.0.1/components/spi_flash", "/home/roua/esp/esp-idf-v5.0.1/components/xtensa", "" ],
+    "debug_prefix_map_gdbinit": ""
+}
